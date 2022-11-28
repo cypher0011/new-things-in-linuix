@@ -30,3 +30,6 @@ do: ls (file name)
 |                                                                     |
 |---------------------------------------------------------------------|
 
+cp
+cp is puting a file in to a folder
+Exampel: cp (the file name) (the folder name)
